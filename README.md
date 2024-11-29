@@ -6,19 +6,19 @@ This project is a Book Review Application developed using the MERN (MongoDB, Exp
 Setup Instructions
 1-Download the code from Git Repository
 
-    2-Backend set up
-         -navigate to backend directory -> cd backend
-         -install dependencies -> npm install
-         -start the backend server -> npm run dev
+2-Backend set up
+-navigate to backend directory -> cd backend
+-install dependencies -> npm install
+-start the backend server -> npm run dev
 
-    3-Frontend setup
-         -navigate to the frontend directory -> cd frontend
-         -install dependencies -> npm install
-         -start the frontend server -> npm start
+3-Frontend setup
+-navigate to the frontend directory -> cd frontend
+-install dependencies -> npm install
+-start the frontend server -> npm start
 
 Features
--CRUD operations: Create, Read, Update, Delete book reviews
--Search & Filter: Quickly find reviews by book rating or date.
+-CRUD operations: Create, Read, Update, Delete book reviews.
+-Search & Filter: Quickly find reviews by book rating or date, and books by title or rating.
 -User-Friendly Interface: Clean and intuitive design for easy navigation.
 
 Note
